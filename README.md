@@ -59,9 +59,7 @@ K-Means clustering visualized distinct groups in reduced dimensions.
 Getting Started
 Clone the repository and run the provided Jupyter notebook or Python script. Make sure to have the required libraries installed (numpy, pandas, scikit-learn, matplotlib, seaborn).
 
-bash
-git clone https://github.com/yourusername/dna-sequence-analysis.git
-cd dna-sequence-analysis
+
 # Open and run the notebook or script
 Requirements
 Python 3.x
